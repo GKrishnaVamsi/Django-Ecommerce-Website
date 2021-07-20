@@ -1,6 +1,6 @@
 @echo off
 
-set "VIRTUAL_ENV=C:\Users\denni\OneDrive\Desktop\ecom_files\ecom_mod_1\env"
+set "VIRTUAL_ENV=C:\Users\denni\OneDrive\Desktop\ecom_files\ecom_mod_2\ecommerce\env"
 
 if defined _OLD_VIRTUAL_PROMPT (
     set "PROMPT=%_OLD_VIRTUAL_PROMPT%"
